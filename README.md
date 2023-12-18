@@ -1,4 +1,4 @@
-# YouTube API Project
+# VideoWare
 
 This project is a web application that utilizes the YouTube v3 API from RapidAPI. It allows users to search for YouTube videos and view the results directly on the website.
 
